@@ -59,3 +59,4 @@ Open Freeplane
 5. The script checks to see if the 'opml file' attribute is present and uses that information to find the opml file.
 6. If the 'opml file' attribute is not in the selected node the user will be prompted to locate the opml file.
 
+I hope you find this script useful.
