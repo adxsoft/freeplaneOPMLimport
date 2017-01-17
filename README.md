@@ -12,6 +12,9 @@ This script will import the nodes and their related notes into Freemind nodes an
 
 The script can be copied into the Freeplane user directory and/or can be added to a Freeplanenode as a node script.
 
+## Video demonstration
+https://youtu.be/hUagckdoeNA
+
 ## Background
 I previously developed a Python script to import OPML files to Freeplane (https://github.com/adxsoft/OPMLtoMM)
 which runs outside of Freeplane. I wanted a script that would run easily inside Freeplane so I re-wrote the 
