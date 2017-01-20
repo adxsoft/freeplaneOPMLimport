@@ -1,5 +1,9 @@
 # freeplaneOPMLimport
 
+## see also
+Since this script was developed an add-on has been created which makes it easier to import OPML
+see https://github.com/adxsoft/ImportOPMLtoselectednode.addon
+
 A Freeplane script developed in Groovy to import an OPML file to Freeplane. 
 
 OPML is a popular export format for mind maps and OPML has nodes recorded in outline tags. 
